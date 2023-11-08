@@ -9,7 +9,7 @@ public abstract class Robot
 {
     private String name;
     private Colour colour;
-    public int xPosition=1;
+    public int xPosition=80;
     public int yPosition;
     private int direction;
     public static int MIN_NAME_LENGTH=3;
